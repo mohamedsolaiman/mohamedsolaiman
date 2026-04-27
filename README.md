@@ -146,6 +146,8 @@ Python beginner CLI projects collection
 
 ### 🌱 Currently Learning
 
+<div align="left">
+
 ```python
 class MohamedSolaiman:
     def __init__(self):
@@ -162,6 +164,8 @@ class MohamedSolaiman:
 
 me = MohamedSolaiman()
 ```
+
+</div>
 
 ---
 
