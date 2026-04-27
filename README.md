@@ -1,17 +1,10 @@
 <div align="center">
 
-<!-- Header Banner - BMO Colors -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2B7A8C,50:4DB8C7,100:7DDFE8&height=200&section=header&text=Mohamed%20Solaiman&fontSize=42&fontColor=2B7A8C&fontAlignY=35&desc=Full-Stack%20Developer%20%C2%B7%20Cybersecurity%20Enthusiast%20%C2%B7%20Python%20Builder&descSize=18&descColor=4DB8C7&descAlignY=55" />
+# 👋 Hey, I'm <span style="color:#4DB8C7">Mohamed Solaiman</span>
 
-<!-- Typing Animation - BMO Colors -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=4DB8C7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+secure+and+scalable+apps;Automating+everything+with+Python;Always+learning+something+new" alt="Typing SVG" />
-</a>
+### Full-Stack Developer · Cybersecurity Enthusiast · Python Builder
 
-<!-- Visitor Counter -->
-<img src="https://komarev.com/ghpvc/?username=mohamedsolaiman&style=flat-square&color=4DB8C7" alt="Profile Views" />
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=4DB8C7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+secure+and+scalable+apps;Automating+everything+with+Python;Always+learning+something+new" alt="Typing SVG" />
 
 ---
 
@@ -91,18 +84,18 @@ Impassioned by cybersecurity, fulfilled by code.
 <tr>
 <td align="center" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mohamedsolaiman&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4DB8C7&icon_color=4DB8C7&text_color=c9d1d9" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=mohamedsolaiman&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="100%" />
 
 </td>
 <td align="center" width="50%">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=mohamedsolaiman&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363D&ring=4DB8C7&fire=4DB8C7&currStreakLabel=4DB8C7" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=mohamedsolaiman&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="100%" />
 
 </td>
 </tr>
 </table>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedsolaiman&bg_color=0d1117&color=4DB8C7&line=4DB8C7&point=ffffff&area=true&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedsolaiman&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%" />
 
 ---
 
@@ -151,6 +144,27 @@ Python beginner CLI projects collection
 
 ---
 
+### 🌱 Currently Learning
+
+```python
+class MohamedSolaiman:
+    def __init__(self):
+        self.name = "Mohamed Solaiman"
+        self.role = "Full-Stack Developer & Cybersecurity Enthusiast"
+        self.learning = ["Advanced Penetration Testing", "Cloud Security (AWS)", "Malware Analysis"]
+        self.tools = ["Python", "TypeScript", "Next.js", "Nmap", "Wireshark", "Burp Suite"]
+
+    def current_goal(self):
+        return "OSCP Certification"
+
+    def fun_fact(self):
+        return "I automate everything. Even my coffee maker runs on Python"
+
+me = MohamedSolaiman()
+```
+
+---
+
 ### 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-solaiman-sy/)
@@ -161,9 +175,7 @@ Python beginner CLI projects collection
 ---
 
 <div align="center">
-
-<!-- Footer Banner - BMO Colors -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7DDFE8,50:4DB8C7,100:2B7A8C&height=120&section=footer" />
+<img src="https://komarev.com/ghpvc/?username=mohamedsolaiman&style=flat-square&color=58a6ff" alt="Profile Views" />
 
 *"First, solve the problem. Then, write the code."*
 
